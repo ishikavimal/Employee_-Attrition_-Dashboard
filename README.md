@@ -117,6 +117,7 @@ Dashboard_Screenshots/ – Images of visuals
 ✨ Created By
 
 Ishika Vimal
-BBA Business Analytics | Semester 4
+BBA Business Analytics | Semester 5
 College: Babu Banarasi Das University, Lucknow
+
 Tools Used: IBM SPSS Modeler, Power BI, Excel
